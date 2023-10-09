@@ -16,20 +16,20 @@
 * **Deep learning**
 ## 💻:keyboard: Languages and Tools
 **Java**:
-[![Java](https://img.shields.io/badge/Java-orange?style=flat&logo=java&logoColor=white&link=https://github.com/maximum2974/OOP-JAVA-and-Android-App-Developer)](https://github.com/maximum2974/OOP-JAVA-and-Android-App-Developer) 
-[![Spring](https://img.shields.io/badge/-Spring-lightgray?style=flat&logo=spring&link=https://github.com/maximum2974/Java-Web-Developer)](https://github.com/maximum2974/Java-Web-Developer)
-[![SpringBoot](https://img.shields.io/badge/-Springboot-black?style=flat&logo=springboot&link=https://github.com/maximum2974/Java-Web-Developer)](https://github.com/maximum2974/Java-Web-Developer)
-[![Maven](https://img.shields.io/badge/Maven-C71A36?style=flat&logo=apache-maven&link=hhttps://github.com/maxium2974/Java-Web-Developer)](https://github.com/maximum2974/Java-Web-Developer) 
-[![XML](https://img.shields.io/badge/-XML-orange?style=flat&logo=xml&link=https://github.com/maximum2974/Java-Web-Developer)](https://github.com/maximum2974/Java-Web-Developer)
-[![JSON](https://img.shields.io/badge/-JSON-lightgray?style=flat&logo=json&link=https://github.com/maximum2974/Java-Web-Developer)](https://github.com/maximum2974/Java-Web-Developer)<br>
+[![Java](https://img.shields.io/badge/Java-orange?style=flat&logo=java&logoColor=white&link=https://github.com/maximum2974/OOP-JAVA-and-Android-App-Developer)](https://github.com/maximum2974) 
+[![Spring](https://img.shields.io/badge/-Spring-lightgray?style=flat&logo=spring&link=https://github.com/maximum2974/Java-Web-Developer)](https://github.com/maximum2974)
+[![SpringBoot](https://img.shields.io/badge/-Springboot-black?style=flat&logo=springboot&link=https://github.com/maximum2974/Java-Web-Developer)](https://github.com/maximum2974)
+[![Maven](https://img.shields.io/badge/Maven-C71A36?style=flat&logo=apache-maven&link=hhttps://github.com/maxium2974/Java-Web-Developer)](https://github.com/maximum2974) 
+[![XML](https://img.shields.io/badge/-XML-orange?style=flat&logo=xml&link=https://github.com/maximum2974/Java-Web-Developer)](https://github.com/maximum2974)
+[![JSON](https://img.shields.io/badge/-JSON-lightgray?style=flat&logo=json&link=https://github.com/maximum2974/Java-Web-Developer)](https://github.com/maximum2974)<br>
 **Python**:
-[![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=python&link=https://github.com/maximum2974/Python-AWS-TradingAI)](https://github.com/maximum2974/Python-AWS-TradingAI)
-[![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=PyTorch&logoColor=white&link=https://github.com/maximum2974/Python-AWS-TradingAI)](https://github.com/maximum2974/Python-AWS-TradingAI)
-[![Tensorflow](https://img.shields.io/badge/-Tensorflow-gray?style=flat&logo=tensorflow&link=https://github.com/maximum2974/Python-AWS-TradingAI)](https://github.com/maximum2974/Python-AWS-TradingAI)<br>
+[![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=python&link=https://github.com/maximum2974/Python-AWS-TradingAI)](https://github.com/maximum2974)
+[![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=PyTorch&logoColor=white&link=https://github.com/maximum2974/Python-AWS-TradingAI)](https://github.com/maximum2974)
+[![Tensorflow](https://img.shields.io/badge/-Tensorflow-gray?style=flat&logo=tensorflow&link=https://github.com/maximum2974/Python-AWS-TradingAI)](https://github.com/maximum2974)<br>
 **JavaScript**: 
-[![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript&link=https://github.com/maximum2974/Front-End-Dev)](https://github.com/maximum2974/Front-End-Dev)
-[![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white&link=https://github.com/maximum2974/Front-End-Dev)](https://github.com/maximum2974/Front-End-Dev) 
-[![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&link=https://github.com/maximum2974/Front-End-Dev)](https://github.com/maximum2974/Front-End-Dev)<br>
+[![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript&link=https://github.com/maximum2974/Front-End-Dev)](https://github.com/maximum2974)
+[![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white&link=https://github.com/maximum2974/Front-End-Dev)](https://github.com/maximum2974) 
+[![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&link=https://github.com/maximum2974/Front-End-Dev)](https://github.com/maximum2974)<br>
 **SQL:**
 [![SQL](https://img.shields.io/badge/-SQL-orange?style=flat&logo=sql&link=https://github.com/maximum2974)](https://github.com/maximum2974)
 [![MySQL](https://img.shields.io/badge/-MySQL-lightgray?style=flat&logo=mysql&link=https://github.com/maximum2974)](https://github.com/maximum2974)<br>
