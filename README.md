@@ -13,7 +13,7 @@
 * **Java**
 * **Algorithm**
 * **Spring+SpringMVC+Springboot+Spring** **Security**
-* **Deep learning**
+* **Machine learning**
 ## 💻:keyboard: Languages and Tools
 **Java**:
 [![Java](https://img.shields.io/badge/Java-orange?style=flat&logo=java&logoColor=white&link=https://github.com/maximum2974/OOP-JAVA-and-Android-App-Developer)](https://github.com/maximum2974) 
