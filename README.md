@@ -10,10 +10,10 @@
 <img align="right" src="https://media.giphy.com/media/MeJgB3yMMwIaHmKD4z/giphy.gif" width="30%">
 
 👨🏻‍💻I'm currently learning:
-* **Java**
 * **Algorithm**
 * **Spring+SpringMVC+Springboot+Spring** **Security**
 * **Machine learning**
+* **Redis**
 ## 💻:keyboard: Languages and Tools
 **Java**:
 [![Java](https://img.shields.io/badge/Java-orange?style=flat&logo=java&logoColor=white&link=https://github.com/maximum2974/OOP-JAVA-and-Android-App-Developer)](https://github.com/maximum2974) 
