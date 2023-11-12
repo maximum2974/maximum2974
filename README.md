@@ -1,9 +1,9 @@
 # Hi👋, welcome to my github😇
 
 <div>
-    <img alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" style="width: 400px;" />
-    <img alt="GIF" src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" style="width: 400px;" />
+    <img alt="GIF" src="https://github.com/maximum2974/maximum2974/blob/main/introduction.gif" width="800" height="400"/>
 </div>
+
 
 ## ✨I'm **maximum2974**, just a developer from **China**🚀
 
