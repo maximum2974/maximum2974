@@ -5,7 +5,7 @@
 </div>
 
 
-## ✨I'm **maximum2974**, just a developer from **China**🚀
+## ✨I'm **maximum2974**, a passionate developer from **China** 🚀
 
 <img align="right" src="https://media.giphy.com/media/MeJgB3yMMwIaHmKD4z/giphy.gif" width="25%">
 
@@ -52,6 +52,8 @@
 [![SQLyog](https://img.shields.io/badge/-SQLyog-4479A1?style=flat&link=https://github.com/maximum2974)](https://github.com/maximum2974)
 [![LeetCode](https://img.shields.io/badge/-02569B?style=flat&logo=leetCode&logoColor=white&link=https://github.com/maximum2974 "LeetCode")](https://github.com/maximum2974)<br>
 
+
+## **💣:This Week I Spent My Time On:**
 <!--START_SECTION:waka-->
 
 ```txt
