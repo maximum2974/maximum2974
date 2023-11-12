@@ -1,7 +1,7 @@
 # Hi👋, welcome to my github😇
 
 <div>
-    <img alt="GIF" src="https://github.com/maximum2974/maximum2974/blob/main/introduction.gif" width="800" height="400"/>
+    <img alt="GIF" src="https://github.com/maximum2974/maximum2974/blob/main/introduction(readme).gif" width="800" height="400"/>
 </div>
 
 
