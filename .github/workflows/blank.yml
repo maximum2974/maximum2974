@@ -22,11 +22,16 @@ jobs:
           gif_out_path: ./assets/github-contribution-grid-snake.gif
           svg_out_path: ./assets/github-contribution-grid-snake.svg
 
+      - name: Set Git Config
+        run: |
+          git config user.name "${{ github.actor }}"
+          git config user.email "${{ github.actor }}@users.noreply.github.com"
+        shell: bash
+
       - name: Commit Changes
-        run: echo "Generate Contribution Snake" >> $GITHUB_ENV
+        run: git add . && git commit -m "Generate Contribution Snake"
         shell: bash
 
       - name: Push to GitHub
-        uses: EndBug/push-to-github-action@v2
-        with:
-          branch: main
+        run: git push
+        shell: bash
