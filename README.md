@@ -15,7 +15,6 @@
 * **Machine learning**
 * **Redis**
 ## 💻:keyboard: Languages and Tools
-**Java**:
 [![Java](https://img.shields.io/badge/Java-orange?style=flat&logo=java&logoColor=white&link=https://github.com/maximum2974/OOP-JAVA-and-Android-App-Developer)](https://github.com/maximum2974) 
 [![Spring](https://img.shields.io/badge/-Spring-lightgray?style=flat&logo=spring&link=https://github.com/maximum2974/Java-Web-Developer)](https://github.com/maximum2974)
 [![Spring MVC](https://img.shields.io/badge/-Spring%20MVC-brightgreen?style=flat&logo=spring&link=https://github.com/maximum2974/Java-Web-Developer)](https://github.com/maximum2974)
@@ -29,24 +28,18 @@
 [![JUnit](https://img.shields.io/badge/-JUnit-25A162?style=flat&logo=junit&logoColor=white&link=https://github.com/maximum2974)](https://github.com/maximum2974)
 [![JSON](https://img.shields.io/badge/-JSON-lightgray?style=flat&logo=json&link=https://github.com/maximum2974/Java-Web-Developer)](https://github.com/maximum2974)
 [![MyBatis](https://img.shields.io/badge/-MyBatis-blue?style=flat&logo=mybatis&link=https://github.com/maximum2974/Java-Web-Developer)](https://github.com/maximum2974)
-[![MyBatis-Plus](https://img.shields.io/badge/-MyBatis%20Plus-green?style=flat&logo=mybatis&link=https://github.com/maximum2974/Java-Web-Developer)](https://github.com/maximum2974)<br>
-**Python**:
+[![MyBatis-Plus](https://img.shields.io/badge/-MyBatis%20Plus-green?style=flat&logo=mybatis&link=https://github.com/maximum2974/Java-Web-Developer)](https://github.com/maximum2974)
 [![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=python&link=https://github.com/maximum2974/Python-AWS-TradingAI)](https://github.com/maximum2974)
 [![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=PyTorch&logoColor=white&link=https://github.com/maximum2974/Python-AWS-TradingAI)](https://github.com/maximum2974)
-[![Tensorflow](https://img.shields.io/badge/-Tensorflow-gray?style=flat&logo=tensorflow&link=https://github.com/maximum2974/Python-AWS-TradingAI)](https://github.com/maximum2974)<br>
-**JavaScript**: 
+[![Tensorflow](https://img.shields.io/badge/-Tensorflow-gray?style=flat&logo=tensorflow&link=https://github.com/maximum2974/Python-AWS-TradingAI)](https://github.com/maximum2974)
 [![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript&link=https://github.com/maximum2974/Front-End-Dev)](https://github.com/maximum2974)
 [![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white&link=https://github.com/maximum2974/Front-End-Dev)](https://github.com/maximum2974) 
-[![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&link=https://github.com/maximum2974/Front-End-Dev)](https://github.com/maximum2974)<br>
-**SQL:**
+[![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&link=https://github.com/maximum2974/Front-End-Dev)](https://github.com/maximum2974)
 [![SQL](https://img.shields.io/badge/-SQL-orange?style=flat&logo=sql&link=https://github.com/maximum2974)](https://github.com/maximum2974)
-[![MySQL](https://img.shields.io/badge/-MySQL-lightgray?style=flat&logo=mysql&link=https://github.com/maximum2974)](https://github.com/maximum2974)<br>
-**NoSQL:**
-[![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat&logo=redis&logoColor=white&link=https://github.com/maximum2974)](https://github.com/maximum2974)<br>
-**Version Control:**
+[![MySQL](https://img.shields.io/badge/-MySQL-lightgray?style=flat&logo=mysql&link=https://github.com/maximum2974)](https://github.com/maximum2974)
+[![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat&logo=redis&logoColor=white&link=https://github.com/maximum2974)](https://github.com/maximum2974)
 [![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git&link=https://github.com/maximum2974)](https://github.com/maximum2974) 
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&link=https://github.com/maximum2974)](https://github.com/maximum2974)<br>
-**Software Development:**
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&link=https://github.com/maximum2974)](https://github.com/maximum2974)
 [![IntelliJ IDEA](https://img.shields.io/badge/-red?style=flat&logo=IntelliJ-IDEA&logoColor=white&link=https://github.com/maximum2974 "IntelliJ IDEA")](https://github.com/maximum2974)
 [![Visual Studio](https://img.shields.io/badge/-007ACC?style=flat&logo=Visual-Studio-Code&logoColor=white&link=https://github.com/maximum2974 "Visual Studio")](https://github.com/maximum2974)
 [![DataGrip](https://img.shields.io/badge/-DataGrip-00B4CC?style=flat&logo=datagrip&link=https://github.com/maximum2974)](https://github.com/maximum2974)
