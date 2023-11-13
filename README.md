@@ -55,7 +55,8 @@
 
 ## **💣:This Week I Spent My Time On:**
 
-
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka--> 
  
 
 ![](https://github.com/maximum2974/maximum2974/blob/output/github-contribution-grid-snake.svg)
