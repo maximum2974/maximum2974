@@ -7,7 +7,7 @@
 
 ## ✨I'm **maximum2974**, a passionate developer from **China** 🚀
 
-<img align="right" src="https://media.giphy.com/media/MeJgB3yMMwIaHmKD4z/giphy.gif" width="25%">
+<img align="right" src="https://github.com/maximum2974/maximum2974/blob/main/Hello%20World.gif" width="25%">
 
 👨🏻‍💻I'm currently learning:
 * **Algorithm**
