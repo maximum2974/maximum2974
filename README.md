@@ -53,7 +53,7 @@
 [![LeetCode](https://img.shields.io/badge/-02569B?style=flat&logo=leetCode&logoColor=white&link=https://github.com/maximum2974 "LeetCode")](https://github.com/maximum2974)<br>
 
 
-## **💣:This Week I Spent My Time On:**
+## **💣:Something just about me:**
 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-4%20hrs%2057%20mins-blue)
