@@ -56,7 +56,7 @@
 ## **💣A Glimpse into My Personal Week:**
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-29%20hrs%2021%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-46%20hrs%2015%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-734-blue)
 
@@ -135,7 +135,7 @@ C++                      1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 18/11/2023 18:35:22 UTC
+ Last Updated on 19/11/2023 18:35:26 UTC
 <!--END_SECTION:waka--> 
  
 
