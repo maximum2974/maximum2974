@@ -30,6 +30,8 @@
 [![JSON](https://img.shields.io/badge/-JSON-lightgray?style=flat&logo=json&link=https://github.com/maximum2974/Java-Web-Developer)](https://github.com/maximum2974)
 [![MyBatis](https://img.shields.io/badge/-MyBatis-blue?style=flat&logo=mybatis&link=https://github.com/maximum2974/Java-Web-Developer)](https://github.com/maximum2974)
 [![MyBatis-Plus](https://img.shields.io/badge/-MyBatis%20Plus-green?style=flat&logo=mybatis&link=https://github.com/maximum2974/Java-Web-Developer)](https://github.com/maximum2974)
+[![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-FF6600?style=flat&logo=rabbitmq&logoColor=white&link=https://github.com/maximum2974)](https://github.com/maximum2974)
+[![Netty](https://img.shields.io/badge/-Netty-4DB6AC?style=flat&logo=netty&logoColor=white&link=https://github.com/maximum2974)](https://github.com/maximum2974)
 [![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=python&link=https://github.com/maximum2974/Python-AWS-TradingAI)](https://github.com/maximum2974)
 [![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=PyTorch&logoColor=white&link=https://github.com/maximum2974/Python-AWS-TradingAI)](https://github.com/maximum2974)
 [![Tensorflow](https://img.shields.io/badge/-Tensorflow-gray?style=flat&logo=tensorflow&link=https://github.com/maximum2974/Python-AWS-TradingAI)](https://github.com/maximum2974)
