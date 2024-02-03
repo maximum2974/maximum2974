@@ -38,6 +38,7 @@
 [![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript&link=https://github.com/maximum2974/Front-End-Dev)](https://github.com/maximum2974)
 [![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white&link=https://github.com/maximum2974/Front-End-Dev)](https://github.com/maximum2974) 
 [![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&link=https://github.com/maximum2974/Front-End-Dev)](https://github.com/maximum2974)
+[![AJAX](https://img.shields.io/badge/-AJAX-0096D6?style=flat&logo=ajax&logoColor=white&link=https://github.com/maximum2974)](https://github.com/maximum2974)
 [![SQL](https://img.shields.io/badge/-SQL-orange?style=flat&logo=sql&link=https://github.com/maximum2974)](https://github.com/maximum2974)
 [![MySQL](https://img.shields.io/badge/-MySQL-lightgray?style=flat&logo=mysql&link=https://github.com/maximum2974)](https://github.com/maximum2974)
 [![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat&logo=redis&logoColor=white&link=https://github.com/maximum2974)](https://github.com/maximum2974)
