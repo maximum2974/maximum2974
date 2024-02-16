@@ -58,6 +58,7 @@
 [![VMware](https://img.shields.io/badge/-VMware-607078?style=flat&logo=vmware&link=https://github.com/maximum2974)](https://github.com/maximum2974)
 [![Xshell](https://img.shields.io/badge/-Xshell-1A365D?style=flat&link=https://github.com/maximum2974)](https://github.com/maximum2974)
 [![SFTP](https://img.shields.io/badge/-SFTP-007ACC?style=flat&link=https://github.com/maximum2974)](https://github.com/maximum2974)
+[![WebStorm](https://img.shields.io/badge/-WebStorm-000000?style=flat&logo=webstorm&link=https://github.com/maximum2974)](https://github.com/maximum2974)
 [![SQLyog](https://img.shields.io/badge/-SQLyog-4479A1?style=flat&link=https://github.com/maximum2974)](https://github.com/maximum2974)
 [![LeetCode](https://img.shields.io/badge/-02569B?style=flat&logo=leetCode&logoColor=white&link=https://github.com/maximum2974 "LeetCode")](https://github.com/maximum2974)<br>
 
