@@ -12,7 +12,7 @@
 👨🏻‍💻I'm currently learning:
 * **Algorithm**
 * **Redis**
-* **Ajax+Node.js**
+* **TypeScript**
 * **Vue**
 * **Netty**
 * **SpringCloud**
