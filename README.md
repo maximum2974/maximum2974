@@ -11,11 +11,11 @@
 
 👨🏻‍💻I'm currently learning:
 * **Algorithm**
-* **Redis**
-* **docker**
-* **jvm**
-* **Netty**
+* **Docker**
+* **Jvm**
 * **SpringCloud**
+* **Deep Learning**
+* **Pytorch**
 ## 💻 Languages and Tools
 [![Java](https://img.shields.io/badge/Java-orange?style=flat&logo=java&logoColor=white&link=https://github.com/maximum2974/OOP-JAVA-and-Android-App-Developer)](https://github.com/maximum2974) 
 [![Spring](https://img.shields.io/badge/-Spring-lightgray?style=flat&logo=spring&link=https://github.com/maximum2974/Java-Web-Developer)](https://github.com/maximum2974)
