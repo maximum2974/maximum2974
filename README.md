@@ -12,8 +12,8 @@
 👨🏻‍💻I'm currently learning:
 * **Algorithm**
 * **Redis**
-* **TypeScript**
-* **Vue**
+* **docker**
+* **jvm**
 * **Netty**
 * **SpringCloud**
 ## 💻 Languages and Tools
