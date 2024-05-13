@@ -11,7 +11,6 @@
 
 👨🏻‍💻I'm currently learning:
 * **Algorithm**
-* **Docker**
 * **Jvm**
 * **SpringCloud**
 * **Deep Learning**
