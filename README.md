@@ -11,8 +11,8 @@
 
 👨🏻‍💻I'm currently learning:
 * **Algorithm**
-* **Jvm**
 * **SpringCloud**
+* **Golang**
 * **Deep Learning**
 * **Pytorch**
 ## 💻 Languages and Tools
