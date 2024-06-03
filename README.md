@@ -11,7 +11,6 @@
 
 👨🏻‍💻I'm currently learning:
 * **Algorithm**
-* **SpringCloud**
 * **Golang**
 * **Deep Learning**
 * **Pytorch**
