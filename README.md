@@ -70,15 +70,13 @@
 ## **💣A Glimpse into My Personal Week:**
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-6%2C572%20hrs%2045%20mins-blue?style=flat)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 1.4 MB Used in GitHub's Storage 
  > 
-> 🏆 184 Contributions in the Year 2026
+> 🏆 185 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -99,7 +97,7 @@ C#                       1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 14/05/2026 20:17:27 UTC
+ Last Updated on 15/05/2026 20:04:36 UTC
 <!--END_SECTION:waka--> 
  
 
