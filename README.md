@@ -70,7 +70,7 @@
 ## **💣A Glimpse into My Personal Week:**
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-6%2C780%20hrs%2021%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-6%2C780%20hrs%2042%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -143,7 +143,7 @@ C#                       1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 14/07/2026 19:56:28 UTC
+ Last Updated on 15/07/2026 19:50:00 UTC
 <!--END_SECTION:waka--> 
  
 
