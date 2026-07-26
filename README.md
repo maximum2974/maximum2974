@@ -70,7 +70,7 @@
 ## **💣A Glimpse into My Personal Week:**
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-6%2C797%20hrs%2021%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-6%2C801%20hrs%2018%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -78,7 +78,7 @@
 
 > 📦 1.4 MB Used in GitHub's Storage 
  > 
-> 🏆 254 Contributions in the Year 2026
+> 🏆 255 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -90,20 +90,20 @@
 
 ```text
 🌞 Morning                923 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.31 % 
-🌆 Daytime                1576 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.61 % 
-🌃 Evening                3644 commits        ██████████░░░░░░░░░░░░░░░   40.72 % 
+🌆 Daytime                1577 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.62 % 
+🌃 Evening                3644 commits        ██████████░░░░░░░░░░░░░░░   40.71 % 
 🌙 Night                  2807 commits        ████████░░░░░░░░░░░░░░░░░   31.36 % 
 ```
 📅 **I'm Most Productive on Saturday** 
 
 ```text
-Monday                   840 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.39 % 
+Monday                   840 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.38 % 
 Tuesday                  811 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.06 % 
 Wednesday                1064 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.89 % 
 Thursday                 1363 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.23 % 
 Friday                   1014 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.33 % 
 Saturday                 2442 commits        ███████░░░░░░░░░░░░░░░░░░   27.28 % 
-Sunday                   1416 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.82 % 
+Sunday                   1417 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.83 % 
 ```
 
 
@@ -113,22 +113,20 @@ Sunday                   1416 commits        ████░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    14 hrs 7 mins       █████████████████████████   99.81 % 
-JavaScript               1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 % 
+Other                    12 hrs 24 mins      █████████████████████████   99.53 % 
+JavaScript               3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.47 % 
 
 🔥 Editors: 
-Chrome                   8 hrs 38 mins       ███████████████░░░░░░░░░░   61.00 % 
-Edge                     5 hrs 31 mins       ██████████░░░░░░░░░░░░░░░   39.00 % 
+Chrome                   8 hrs 1 min         ████████████████░░░░░░░░░   64.38 % 
+Edge                     4 hrs 26 mins       █████████░░░░░░░░░░░░░░░░   35.62 % 
 
 🐱‍💻 Projects: 
-skills                   7 hrs 14 mins       █████████████░░░░░░░░░░░░   51.15 % 
-FineTune                 4 hrs 59 mins       █████████░░░░░░░░░░░░░░░░   35.23 % 
-dive-into-llms           1 hr 55 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.56 % 
-SurviveXMUM              0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
-x-article-drafter        0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
+FineTune                 11 hrs 7 mins       ██████████████████████░░░   89.30 % 
+dive-into-llms           1 hr 20 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.70 % 
 
 💻 Operating System: 
-Mac                      14 hrs 9 mins       █████████████████████████   100.00 % 
+Mac                      12 hrs 23 mins      █████████████████████████   99.42 % 
+Windows                  4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.58 % 
 ```
 
 **I Mostly Code in Java** 
@@ -144,7 +142,7 @@ C#                       1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 25/07/2026 19:46:22 UTC
+ Last Updated on 26/07/2026 19:47:46 UTC
 <!--END_SECTION:waka--> 
  
 
