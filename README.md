@@ -70,7 +70,9 @@
 ## **💣A Glimpse into My Personal Week:**
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-6%2C801%20hrs%2018%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C446%20hrs%2034%20mins-blue?style=flat)
+
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-27%20hrs%2055%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -113,20 +115,26 @@ Sunday                   1417 commits        ████░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    12 hrs 24 mins      █████████████████████████   99.53 % 
-JavaScript               3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.47 % 
+Other                    11 hrs 36 mins      █████████████████████████   99.66 % 
+JavaScript               2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 % 
 
 🔥 Editors: 
-Chrome                   8 hrs 1 min         ████████████████░░░░░░░░░   64.38 % 
-Edge                     4 hrs 26 mins       █████████░░░░░░░░░░░░░░░░   35.62 % 
+Chrome                   7 hrs 12 mins       ███████████████░░░░░░░░░░   61.90 % 
+Edge                     4 hrs 26 mins       ██████████░░░░░░░░░░░░░░░   38.10 % 
 
 🐱‍💻 Projects: 
-FineTune                 11 hrs 7 mins       ██████████████████████░░░   89.30 % 
-dive-into-llms           1 hr 20 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.70 % 
+FineTune                 10 hrs 54 mins      ███████████████████████░░   93.70 % 
+dive-into-llms           44 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.30 % 
 
 💻 Operating System: 
-Mac                      12 hrs 23 mins      █████████████████████████   99.42 % 
-Windows                  4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.58 % 
+Mac                      11 hrs 34 mins      █████████████████████████   99.38 % 
+Windows                  4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.62 % 
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+No AI Coding Activity Tracked This Week
 ```
 
 **I Mostly Code in Java** 
@@ -142,7 +150,7 @@ C#                       1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 26/07/2026 19:47:46 UTC
+ Last Updated on 27/07/2026 20:08:00 UTC
 <!--END_SECTION:waka--> 
  
 
