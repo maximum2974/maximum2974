@@ -70,6 +70,10 @@
 ## **💣A Glimpse into My Personal Week:**
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C446%20hrs%2034%20mins-blue?style=flat)
+
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-27%20hrs%2055%20mins-blue?style=flat)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 **🐱 My GitHub Data** 
@@ -111,20 +115,20 @@ Sunday                   1417 commits        ████░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    10 hrs 40 mins      █████████████████████████   99.63 % 
-JavaScript               2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.37 % 
+Other                    9 hrs 52 mins       █████████████████████████   99.60 % 
+JavaScript               2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 % 
 
 🔥 Editors: 
-Chrome                   6 hrs 34 mins       ███████████████░░░░░░░░░░   61.34 % 
-Edge                     4 hrs 8 mins        ██████████░░░░░░░░░░░░░░░   38.66 % 
+Chrome                   6 hrs 15 mins       ████████████████░░░░░░░░░   63.19 % 
+Edge                     3 hrs 38 mins       █████████░░░░░░░░░░░░░░░░   36.81 % 
 
 🐱‍💻 Projects: 
-FineTune                 9 hrs 42 mins       ███████████████████████░░   90.49 % 
-dive-into-llms           1 hr 1 min          ██░░░░░░░░░░░░░░░░░░░░░░░   09.51 % 
+FineTune                 8 hrs 43 mins       ██████████████████████░░░   88.07 % 
+dive-into-llms           1 hr 10 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.93 % 
 
 💻 Operating System: 
-Mac                      10 hrs 38 mins      █████████████████████████   99.33 % 
-Windows                  4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.67 % 
+Mac                      9 hrs 50 mins       █████████████████████████   99.27 % 
+Windows                  4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.73 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -146,7 +150,7 @@ C#                       1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 28/07/2026 20:05:10 UTC
+ Last Updated on 29/07/2026 19:56:37 UTC
 <!--END_SECTION:waka--> 
  
 
