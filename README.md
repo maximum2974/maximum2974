@@ -115,20 +115,20 @@ Sunday                   1417 commits        ████░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    9 hrs 24 mins       █████████████████████████   99.58 % 
-JavaScript               2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.42 % 
+Other                    7 hrs 16 mins       █████████████████████████   99.46 % 
+JavaScript               2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.54 % 
 
 🔥 Editors: 
-Chrome                   5 hrs 51 mins       ███████████████░░░░░░░░░░   61.98 % 
-Edge                     3 hrs 35 mins       ██████████░░░░░░░░░░░░░░░   38.02 % 
+Chrome                   4 hrs 47 mins       ████████████████░░░░░░░░░   65.39 % 
+Edge                     2 hrs 31 mins       █████████░░░░░░░░░░░░░░░░   34.61 % 
 
 🐱‍💻 Projects: 
-FineTune                 8 hrs 16 mins       ██████████████████████░░░   87.49 % 
-dive-into-llms           1 hr 10 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.51 % 
+FineTune                 6 hrs 8 mins        █████████████████████░░░░   83.85 % 
+dive-into-llms           1 hr 10 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.15 % 
 
 💻 Operating System: 
-Mac                      9 hrs 22 mins       █████████████████████████   99.24 % 
-Windows                  4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.76 % 
+Mac                      7 hrs 14 mins       █████████████████████████   99.01 % 
+Windows                  4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.99 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -150,7 +150,7 @@ C#                       1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 30/07/2026 20:07:09 UTC
+ Last Updated on 31/07/2026 20:09:05 UTC
 <!--END_SECTION:waka--> 
  
 
