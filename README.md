@@ -115,18 +115,18 @@ Sunday                   1428 commits        ████░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    1 hr 34 mins        █████████████████████████   99.18 % 
-JavaScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.82 % 
+Other                    6 hrs 34 mins       ████████████████████████░   95.80 % 
+JavaScript               17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.20 % 
 
 🔥 Editors: 
-Chrome                   1 hr 19 mins        █████████████████████░░░░   83.10 % 
-Edge                     16 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.90 % 
+Chrome                   5 hrs 40 mins       █████████████████████░░░░   82.80 % 
+Edge                     1 hr 10 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.20 % 
 
 🐱‍💻 Projects: 
-dive-into-llms           1 hr 35 mins        █████████████████████████   100.00 % 
+dive-into-llms           6 hrs 51 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      1 hr 35 mins        █████████████████████████   100.00 % 
+Mac                      6 hrs 51 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -148,7 +148,7 @@ C#                       1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 02/08/2026 19:47:34 UTC
+ Last Updated on 04/08/2026 20:13:23 UTC
 <!--END_SECTION:waka--> 
  
 
