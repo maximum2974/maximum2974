@@ -70,7 +70,7 @@
 ## **💣A Glimpse into My Personal Week:**
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C446%20hrs%2034%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C446%20hrs%2051%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-27%20hrs%2055%20mins-blue?style=flat)
 
@@ -115,18 +115,18 @@ Sunday                   1428 commits        ████░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    6 hrs 34 mins       ████████████████████████░   95.80 % 
-JavaScript               17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.20 % 
+Other                    6 hrs 33 mins       ████████████████████████░   95.79 % 
+JavaScript               17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.21 % 
 
 🔥 Editors: 
-Chrome                   5 hrs 40 mins       █████████████████████░░░░   82.80 % 
-Edge                     1 hr 10 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.20 % 
+Chrome                   5 hrs 40 mins       █████████████████████░░░░   82.77 % 
+Edge                     1 hr 10 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.23 % 
 
 🐱‍💻 Projects: 
-dive-into-llms           6 hrs 51 mins       █████████████████████████   100.00 % 
+dive-into-llms           6 hrs 50 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      6 hrs 51 mins       █████████████████████████   100.00 % 
+Mac                      6 hrs 50 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -148,7 +148,7 @@ C#                       1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 04/08/2026 20:13:23 UTC
+ Last Updated on 05/08/2026 20:11:08 UTC
 <!--END_SECTION:waka--> 
  
 
