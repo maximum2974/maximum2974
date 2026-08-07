@@ -70,6 +70,10 @@
 ## **💣A Glimpse into My Personal Week:**
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C446%20hrs%2051%20mins-blue?style=flat)
+
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-27%20hrs%2055%20mins-blue?style=flat)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 **🐱 My GitHub Data** 
@@ -144,7 +148,7 @@ C#                       1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 07/08/2026 00:27:22 UTC
+ Last Updated on 07/08/2026 19:32:20 UTC
 <!--END_SECTION:waka--> 
  
 
