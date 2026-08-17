@@ -70,7 +70,7 @@
 ## **💣A Glimpse into My Personal Week:**
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C447%20hrs%2033%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C447%20hrs%2034%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-27%20hrs%2055%20mins-blue?style=flat)
 
@@ -115,22 +115,22 @@ Sunday                   1428 commits        ████░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    14 hrs 16 mins      ████████████████████████░   95.34 % 
-JavaScript               41 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.66 % 
+Other                    18 hrs 43 mins      ████████████████████████░   96.34 % 
+JavaScript               42 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.66 % 
 
 🔥 Editors: 
-Chrome                   9 hrs 3 mins        ███████████████░░░░░░░░░░   60.47 % 
-Edge                     5 hrs 55 mins       ██████████░░░░░░░░░░░░░░░   39.53 % 
+Chrome                   10 hrs 55 mins      ██████████████░░░░░░░░░░░   56.17 % 
+Edge                     8 hrs 31 mins       ███████████░░░░░░░░░░░░░░   43.83 % 
 
 🐱‍💻 Projects: 
-dive-into-llms           12 hrs 53 mins      ██████████████████████░░░   86.06 % 
-deepseek-harness         2 hrs 4 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.90 % 
-xfoodie                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
+dive-into-llms           13 hrs 30 mins      █████████████████░░░░░░░░   69.52 % 
+deepseek-harness         5 hrs 55 mins       ████████░░░░░░░░░░░░░░░░░   30.45 % 
+xfoodie                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 x-article-drafter        0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 HelloAgents              0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 💻 Operating System: 
-Mac                      14 hrs 58 mins      █████████████████████████   100.00 % 
+Mac                      19 hrs 26 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -152,7 +152,7 @@ C#                       1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 16/08/2026 19:00:25 UTC
+ Last Updated on 17/08/2026 19:12:10 UTC
 <!--END_SECTION:waka--> 
  
 
