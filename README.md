@@ -115,22 +115,22 @@ Sunday                   1428 commits        ████░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    16 hrs 58 mins      ████████████████████████░   97.47 % 
-JavaScript               26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.53 % 
+Other                    14 hrs 26 mins      ████████████████████████░   97.04 % 
+JavaScript               26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.96 % 
 
 🔥 Editors: 
-Chrome                   9 hrs 32 mins       ██████████████░░░░░░░░░░░   54.78 % 
-Edge                     7 hrs 52 mins       ███████████░░░░░░░░░░░░░░   45.22 % 
+Chrome                   8 hrs 41 mins       ███████████████░░░░░░░░░░   58.35 % 
+Edge                     6 hrs 12 mins       ██████████░░░░░░░░░░░░░░░   41.65 % 
 
 🐱‍💻 Projects: 
-dive-into-llms           10 hrs 21 mins      ███████████████░░░░░░░░░░   59.46 % 
-deepseek-harness         5 hrs 55 mins       ████████░░░░░░░░░░░░░░░░░   33.97 % 
-skills                   1 hr 8 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   06.53 % 
+dive-into-llms           7 hrs 49 mins       █████████████░░░░░░░░░░░░   52.57 % 
+deepseek-harness         5 hrs 55 mins       ██████████░░░░░░░░░░░░░░░   39.74 % 
+skills                   1 hr 8 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.64 % 
 xfoodie                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
 x-article-drafter        0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 
 💻 Operating System: 
-Mac                      17 hrs 25 mins      █████████████████████████   100.00 % 
+Mac                      14 hrs 53 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -152,7 +152,7 @@ C#                       1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 21/08/2026 19:11:34 UTC
+ Last Updated on 22/08/2026 19:02:43 UTC
 <!--END_SECTION:waka--> 
  
 
