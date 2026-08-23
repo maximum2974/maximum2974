@@ -70,7 +70,7 @@
 ## **💣A Glimpse into My Personal Week:**
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C447%20hrs%2049%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C447%20hrs%2054%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-27%20hrs%2055%20mins-blue?style=flat)
 
@@ -115,28 +115,49 @@ Sunday                   1428 commits        ████░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    14 hrs 26 mins      ████████████████████████░   97.04 % 
-JavaScript               26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.96 % 
+Other                    15 hrs 48 mins      ████████████████████████░   96.59 % 
+JavaScript               16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.64 % 
+Image (svg)              14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.52 % 
+Java                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 % 
+YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
 
 🔥 Editors: 
-Chrome                   8 hrs 41 mins       ███████████████░░░░░░░░░░   58.35 % 
-Edge                     6 hrs 12 mins       ██████████░░░░░░░░░░░░░░░   41.65 % 
+Chrome                   9 hrs 40 mins       ███████████████░░░░░░░░░░   59.06 % 
+Edge                     6 hrs 24 mins       ██████████░░░░░░░░░░░░░░░   39.11 % 
+Codex Vscode             14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.52 % 
+IntelliJ IDEA            3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 % 
 
 🐱‍💻 Projects: 
-dive-into-llms           7 hrs 49 mins       █████████████░░░░░░░░░░░░   52.57 % 
-deepseek-harness         5 hrs 55 mins       ██████████░░░░░░░░░░░░░░░   39.74 % 
-skills                   1 hr 8 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.64 % 
-xfoodie                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
-x-article-drafter        0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
+dive-into-llms           11 hrs 5 mins       █████████████████░░░░░░░░   67.78 % 
+deepseek-harness         3 hrs 50 mins       ██████░░░░░░░░░░░░░░░░░░░   23.43 % 
+skills                   1 hr 8 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   06.95 % 
+Playground               14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.52 % 
+LLMentor                 2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 % 
 
 💻 Operating System: 
-Mac                      14 hrs 53 mins      █████████████████████████   100.00 % 
+Mac                      16 hrs 22 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-No AI Coding Activity Tracked This Week
+⏱ AI Coding Time: 14 mins (1.52%)
+
+✍️ 0 lines written by AI, 3 lines written by hand (0.0% AI-written)
+
+🔤 184,557 Input Tokens, 13,626 Output Tokens
+
+💵 $2.74 Estimated AI Cost This Week
+
+🧠 2 AI Sessions, 6 AI Prompts
+
+GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+
+🔎 AI Coding Insights:
+🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
+📝 Concise Prompter — average 84 characters per prompt
+🔁 Iterative Prompter — average 3 prompts per session
+🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Java** 
@@ -152,7 +173,7 @@ C#                       1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 22/08/2026 19:02:43 UTC
+ Last Updated on 23/08/2026 19:01:40 UTC
 <!--END_SECTION:waka--> 
  
 
