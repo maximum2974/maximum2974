@@ -115,27 +115,27 @@ Sunday                   1428 commits        ████░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    12 hrs 40 mins      ████████████████████████░   96.65 % 
-JavaScript               15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.93 % 
+Other                    12 hrs 36 mins      ████████████████████████░   96.64 % 
+JavaScript               15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.94 % 
 Image (svg)              8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.11 % 
 Java                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 % 
 YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
 
 🔥 Editors: 
-Chrome                   8 hrs               ███████████████░░░░░░░░░░   61.05 % 
-Edge                     4 hrs 54 mins       █████████░░░░░░░░░░░░░░░░   37.45 % 
+Chrome                   7 hrs 56 mins       ███████████████░░░░░░░░░░   60.87 % 
+Edge                     4 hrs 54 mins       █████████░░░░░░░░░░░░░░░░   37.63 % 
 Codex Vscode             8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.11 % 
 IntelliJ IDEA            3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.39 % 
 
 🐱‍💻 Projects: 
-dive-into-llms           11 hrs 46 mins      ██████████████████████░░░   89.82 % 
-skills                   1 hr 8 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.67 % 
+dive-into-llms           11 hrs 43 mins      ██████████████████████░░░   89.77 % 
+skills                   1 hr 8 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.71 % 
 Playground               8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.11 % 
 LLMentor                 2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 % 
 SurviveXMUM              0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 % 
 
 💻 Operating System: 
-Mac                      13 hrs 7 mins       █████████████████████████   100.00 % 
+Mac                      13 hrs 3 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -173,7 +173,7 @@ C#                       1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 24/08/2026 19:15:36 UTC
+ Last Updated on 25/08/2026 19:12:54 UTC
 <!--END_SECTION:waka--> 
  
 
