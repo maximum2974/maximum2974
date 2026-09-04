@@ -115,21 +115,21 @@ Sunday                   1429 commits        ████░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    7 hrs 21 mins       █████████████████████████   98.78 % 
-YAML                     4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.94 % 
-Java                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 % 
+Other                    5 hrs 40 mins       █████████████████████████   98.43 % 
+YAML                     4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.22 % 
+Java                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 % 
 
 🔥 Editors: 
-Chrome                   4 hrs 42 mins       ████████████████░░░░░░░░░   63.33 % 
-Edge                     2 hrs 38 mins       █████████░░░░░░░░░░░░░░░░   35.46 % 
-IntelliJ IDEA            5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.22 % 
+Chrome                   3 hrs 22 mins       ███████████████░░░░░░░░░░   58.63 % 
+Edge                     2 hrs 17 mins       ██████████░░░░░░░░░░░░░░░   39.81 % 
+IntelliJ IDEA            5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.57 % 
 
 🐱‍💻 Projects: 
-dive-into-llms           7 hrs 21 mins       █████████████████████████   98.78 % 
-LLMentor                 5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.22 % 
+dive-into-llms           5 hrs 40 mins       █████████████████████████   98.43 % 
+LLMentor                 5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.57 % 
 
 💻 Operating System: 
-Mac                      7 hrs 26 mins       █████████████████████████   100.00 % 
+Mac                      5 hrs 46 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -151,7 +151,7 @@ C#                       1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 03/09/2026 21:17:30 UTC
+ Last Updated on 04/09/2026 20:59:35 UTC
 <!--END_SECTION:waka--> 
  
 
