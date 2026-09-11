@@ -70,7 +70,7 @@
 ## **💣A Glimpse into My Personal Week:**
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C448%20hrs%2013%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C448%20hrs%2046%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-27%20hrs%2055%20mins-blue?style=flat)
 
@@ -115,23 +115,23 @@ Sunday                   1430 commits        ████░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    13 hrs 29 mins      ████████████████████████░   94.51 % 
-YAML                     47 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.49 % 
+Other                    17 hrs 39 mins      ████████████████████████░   94.39 % 
+YAML                     1 hr 2 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   05.61 % 
 Java                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔥 Editors: 
-Edge                     7 hrs 38 mins       █████████████░░░░░░░░░░░░   53.54 % 
-Chrome                   6 hrs 37 mins       ████████████░░░░░░░░░░░░░   46.37 % 
-IntelliJ IDEA            0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 % 
+Edge                     10 hrs              █████████████░░░░░░░░░░░░   53.45 % 
+Chrome                   8 hrs 41 mins       ████████████░░░░░░░░░░░░░   46.48 % 
+IntelliJ IDEA            0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
 
 🐱‍💻 Projects: 
-dive-into-llms           7 hrs 36 mins       █████████████░░░░░░░░░░░░   53.28 % 
-LLMentor                 5 hrs 13 mins       █████████░░░░░░░░░░░░░░░░   36.64 % 
-Horizon                  1 hr 26 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.06 % 
+dive-into-llms           7 hrs 36 mins       ██████████░░░░░░░░░░░░░░░   40.65 % 
+Horizon                  5 hrs 52 mins       ████████░░░░░░░░░░░░░░░░░   31.38 % 
+LLMentor                 5 hrs 13 mins       ███████░░░░░░░░░░░░░░░░░░   27.95 % 
 TrendRadar               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
 
 💻 Operating System: 
-Mac                      14 hrs 16 mins      █████████████████████████   100.00 % 
+Mac                      18 hrs 42 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -153,7 +153,7 @@ C#                       1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 10/09/2026 21:07:56 UTC
+ Last Updated on 11/09/2026 21:12:44 UTC
 <!--END_SECTION:waka--> 
  
 
