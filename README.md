@@ -70,7 +70,7 @@
 ## **💣A Glimpse into My Personal Week:**
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C452%20hrs%2025%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C453%20hrs%2021%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-30%20hrs%208%20mins-blue?style=flat)
 
@@ -115,33 +115,33 @@ Sunday                   1430 commits        ████░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    16 hrs 1 min        ██████████████████░░░░░░░   70.19 % 
-Markdown                 5 hrs 14 mins       ██████░░░░░░░░░░░░░░░░░░░   22.93 % 
-YAML                     1 hr 33 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.86 % 
+Other                    15 hrs 55 mins      ██████████████████░░░░░░░   70.01 % 
+Markdown                 5 hrs 15 mins       ██████░░░░░░░░░░░░░░░░░░░   23.09 % 
+YAML                     1 hr 33 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.88 % 
 GitIgnore file           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 JavaScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 
 🔥 Editors: 
-Chrome                   10 hrs 15 mins      ███████████░░░░░░░░░░░░░░   44.96 % 
-Edge                     8 hrs 23 mins       █████████░░░░░░░░░░░░░░░░   36.75 % 
-Codex Vscode             3 hrs 10 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.94 % 
-WebStorm                 59 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.35 % 
+Chrome                   10 hrs 51 mins      ████████████░░░░░░░░░░░░░   47.75 % 
+Edge                     7 hrs 42 mins       ████████░░░░░░░░░░░░░░░░░   33.90 % 
+Codex Vscode             3 hrs 10 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.98 % 
+WebStorm                 59 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.37 % 
 
 🐱‍💻 Projects: 
-dive-into-llms           9 hrs 34 mins       ██████████░░░░░░░░░░░░░░░   41.97 % 
-Horizon                  6 hrs 57 mins       ████████░░░░░░░░░░░░░░░░░   30.50 % 
-maximum                  3 hrs 25 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.98 % 
-pi                       2 hrs 50 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.44 % 
+dive-into-llms           8 hrs 31 mins       █████████░░░░░░░░░░░░░░░░   37.47 % 
+Horizon                  6 hrs 57 mins       ████████░░░░░░░░░░░░░░░░░   30.60 % 
+pi                       3 hrs 49 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.78 % 
+maximum                  3 hrs 25 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.03 % 
 pentagi                  1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 % 
 
 💻 Operating System: 
-Mac                      22 hrs 49 mins      █████████████████████████   100.00 % 
+Mac                      22 hrs 45 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 4 hrs 10 mins (18.29%)
+⏱ AI Coding Time: 4 hrs 10 mins (18.35%)
 
 ✍️ 0 lines written by AI, 0 lines written by hand (0% AI-written)
 
@@ -174,7 +174,7 @@ C#                       1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 14/09/2026 22:01:55 UTC
+ Last Updated on 15/09/2026 21:41:27 UTC
 <!--END_SECTION:waka--> 
  
 
