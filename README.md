@@ -115,48 +115,48 @@ Sunday                   1430 commits        ████░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    14 hrs 59 mins      ███████████████████░░░░░░   75.32 % 
-Markdown                 4 hrs 4 mins        █████░░░░░░░░░░░░░░░░░░░░   20.46 % 
-YAML                     50 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.20 % 
+Other                    12 hrs 27 mins      ███████████████████░░░░░░   75.49 % 
+Markdown                 3 hrs 17 mins       █████░░░░░░░░░░░░░░░░░░░░   19.95 % 
+YAML                     44 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.54 % 
 GitIgnore file           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
 JavaScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 
 🔥 Editors: 
-Chrome                   11 hrs 10 mins      ██████████████░░░░░░░░░░░   56.15 % 
-Edge                     5 hrs 44 mins       ███████░░░░░░░░░░░░░░░░░░   28.81 % 
-Codex Vscode             2 hrs 6 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.59 % 
-WebStorm                 53 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.45 % 
+Chrome                   10 hrs 33 mins      ████████████████░░░░░░░░░   64.01 % 
+Edge                     3 hrs 43 mins       ██████░░░░░░░░░░░░░░░░░░░   22.58 % 
+Codex Vscode             1 hr 19 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.03 % 
+WebStorm                 53 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.38 % 
 
 🐱‍💻 Projects: 
-pi                       9 hrs 7 mins        ███████████░░░░░░░░░░░░░░   45.83 % 
-dive-into-llms           6 hrs 45 mins       ████████░░░░░░░░░░░░░░░░░   33.90 % 
-maximum                  2 hrs 14 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.25 % 
-Horizon                  1 hr 46 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.90 % 
-pentagi                  1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 % 
+pi                       10 hrs 27 mins      ████████████████░░░░░░░░░   63.43 % 
+dive-into-llms           4 hrs 34 mins       ███████░░░░░░░░░░░░░░░░░░   27.72 % 
+maximum                  1 hr 27 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.82 % 
+pentagi                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
+x-article-drafter        0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 
 💻 Operating System: 
-Mac                      19 hrs 54 mins      █████████████████████████   100.00 % 
+Mac                      16 hrs 29 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 2 hrs 59 mins (15.04%)
+⏱ AI Coding Time: 2 hrs 12 mins (13.41%)
 
 ✍️ 0 lines written by AI, 0 lines written by hand (0% AI-written)
 
-🔤 1,658,739 Input Tokens, 75,168 Output Tokens
+🔤 895,638 Input Tokens, 47,157 Output Tokens
 
-💵 $66.79 Estimated AI Cost This Week
+💵 $51.26 Estimated AI Cost This Week
 
-🧠 18 AI Sessions, 31 AI Prompts
+🧠 11 AI Sessions, 19 AI Prompts
 
-GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Codex-Vscode             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🧑‍💻 Mostly Hands-On — 0% of written lines came from AI
-📚 Verbose Prompter — average 5,765 characters per prompt
+📚 Verbose Prompter — average 9,376 characters per prompt
 🔁 Iterative Prompter — average 2 prompts per session
 🚀 High AI Trust — 0% of changed lines were hand-edited
 ```
@@ -174,7 +174,7 @@ C#                       1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 18/09/2026 21:10:39 UTC
+ Last Updated on 19/09/2026 20:58:22 UTC
 <!--END_SECTION:waka--> 
  
 
