@@ -115,50 +115,25 @@ Sunday                   1430 commits        ████░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    12 hrs 27 mins      ███████████████████░░░░░░   75.49 % 
-Markdown                 3 hrs 17 mins       █████░░░░░░░░░░░░░░░░░░░░   19.95 % 
-YAML                     44 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.54 % 
-GitIgnore file           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
-JavaScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
+Other                    9 hrs 7 mins        ███████████████████████░░   90.56 % 
+Markdown                 57 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.44 % 
 
 🔥 Editors: 
-Chrome                   10 hrs 33 mins      ████████████████░░░░░░░░░   64.01 % 
-Edge                     3 hrs 43 mins       ██████░░░░░░░░░░░░░░░░░░░   22.58 % 
-Codex Vscode             1 hr 19 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.03 % 
-WebStorm                 53 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.38 % 
+Chrome                   7 hrs 31 mins       ███████████████████░░░░░░   74.63 % 
+Edge                     2 hrs 33 mins       ██████░░░░░░░░░░░░░░░░░░░   25.37 % 
 
 🐱‍💻 Projects: 
-pi                       10 hrs 27 mins      ████████████████░░░░░░░░░   63.43 % 
-dive-into-llms           4 hrs 34 mins       ███████░░░░░░░░░░░░░░░░░░   27.72 % 
-maximum                  1 hr 27 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.82 % 
-pentagi                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
-x-article-drafter        0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
+pi                       10 hrs 4 mins       █████████████████████████   99.91 % 
+dive-into-llms           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 % 
 
 💻 Operating System: 
-Mac                      16 hrs 29 mins      █████████████████████████   100.00 % 
+Mac                      10 hrs 4 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 2 hrs 12 mins (13.41%)
-
-✍️ 0 lines written by AI, 0 lines written by hand (0% AI-written)
-
-🔤 895,638 Input Tokens, 47,157 Output Tokens
-
-💵 $51.26 Estimated AI Cost This Week
-
-🧠 11 AI Sessions, 19 AI Prompts
-
-Codex-Vscode             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-
-🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 0% of written lines came from AI
-📚 Verbose Prompter — average 9,376 characters per prompt
-🔁 Iterative Prompter — average 2 prompts per session
-🚀 High AI Trust — 0% of changed lines were hand-edited
+No AI Coding Activity Tracked This Week
 ```
 
 **I Mostly Code in Java** 
@@ -174,7 +149,7 @@ C#                       1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 19/09/2026 20:58:22 UTC
+ Last Updated on 20/09/2026 21:03:46 UTC
 <!--END_SECTION:waka--> 
  
 
