@@ -70,9 +70,9 @@
 ## **💣A Glimpse into My Personal Week:**
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C453%20hrs%2023%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C453%20hrs%2054%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-30%20hrs%208%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-31%20hrs%2033%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -115,64 +115,66 @@ Sunday                   1430 commits        ████░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    17 hrs 30 mins      ████████████████████████░   97.08 % 
-Python                   18 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.75 % 
-TOML                     10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.01 % 
-Markdown                 1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 % 
-GitIgnore file           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
+Other                    22 hrs 37 mins      ██████████████████████░░░   87.32 % 
+Python                   2 hrs 9 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.33 % 
+Markdown                 32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.10 % 
+HTML                     15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.98 % 
+TOML                     10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.70 % 
 
 🔥 Editors: 
-Chrome                   8 hrs 53 mins       ████████████░░░░░░░░░░░░░   49.31 % 
-Edge                     7 hrs 42 mins       ███████████░░░░░░░░░░░░░░   42.73 % 
-Codex Vscode             1 hr 7 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   06.21 % 
-PyCharm                  18 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.74 % 
+Chrome                   13 hrs 17 mins      █████████████░░░░░░░░░░░░   51.29 % 
+Edge                     8 hrs 8 mins        ████████░░░░░░░░░░░░░░░░░   31.45 % 
+Codex Vscode             2 hrs 35 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.98 % 
+PyCharm                  1 hr 53 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.27 % 
 
 🐱‍💻 Projects: 
-pi                       15 hrs 39 mins      ██████████████████████░░░   86.78 % 
-mini-swe-agent           1 hr 27 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.13 % 
-Playground               40 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.77 % 
-maximum                  14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.32 % 
+pi                       14 hrs 27 mins      ██████████████░░░░░░░░░░░   55.83 % 
+mini-swe-agent           6 hrs 54 mins       ███████░░░░░░░░░░░░░░░░░░   26.69 % 
+karpathy-llm-wiki        2 hrs               ██░░░░░░░░░░░░░░░░░░░░░░░   07.78 % 
+Playground               1 hr 8 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.41 % 
+Lumo                     53 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.43 % 
 
 💻 Operating System: 
-Mac                      18 hrs 2 mins       █████████████████████████   100.00 % 
+Mac                      25 hrs 54 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 25 mins (7.86%)
+⏱ AI Coding Time: 4 hrs 2 mins (15.61%)
 
-✍️ 0 lines written by AI, 0 lines written by hand (0% AI-written)
+✍️ 528 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 745,648 Input Tokens, 56,422 Output Tokens
+🔤 2,053,726 Input Tokens, 163,886 Output Tokens
 
-💵 $25.82 Estimated AI Cost This Week
+💵 $111.06 Estimated AI Cost This Week
 
-🧠 14 AI Sessions, 40 AI Prompts
+🧠 33 AI Sessions, 127 AI Prompts
 
-GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+GPT                      528 lines           █████████████████████████   100.00 % 
+Codex-Vscode             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 0% of written lines came from AI
-📚 Verbose Prompter — average 5,842 characters per prompt
-🔁 Iterative Prompter — average 3 prompts per session
-🚀 High AI Trust — 0% of changed lines were hand-edited
+🤖 AI-Driven — 100.0% of written lines came from AI
+📚 Verbose Prompter — average 7,856 characters per prompt
+🔁 Iterative Prompter — average 4 prompts per session
+🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Java** 
 
 ```text
-Java                     33 repos            ███████████░░░░░░░░░░░░░░   45.21 % 
-JavaScript               8 repos             ███░░░░░░░░░░░░░░░░░░░░░░   10.96 % 
-TypeScript               6 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.22 % 
-Python                   4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.48 % 
-C#                       1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.37 % 
+Java                     33 repos            ███████████░░░░░░░░░░░░░░   44.59 % 
+JavaScript               8 repos             ███░░░░░░░░░░░░░░░░░░░░░░   10.81 % 
+TypeScript               6 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.11 % 
+Python                   5 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.76 % 
+C#                       1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.35 % 
 ```
 
 
 
 
- Last Updated on 26/09/2026 21:27:15 UTC
+ Last Updated on 27/09/2026 21:35:20 UTC
 <!--END_SECTION:waka--> 
  
 
