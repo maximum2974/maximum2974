@@ -1,7 +1,7 @@
 # Hi👋, welcome to my github😇
 
 <div>
-    <img alt="PNG" src="https://github.com/maximum2974/maximum2974/blob/main/card.png"/>
+    <img src="https://raw.githubusercontent.com/maximum2974/maximum2974/main/hi-maximum-light.svg" alt="Hi, I'm maximum 👋" width="100%" />
 </div>
 
 
@@ -179,3 +179,4 @@ C#                       1 repo              ░░░░░░░░░░░�
  
 
 ![](https://github.com/maximum2974/maximum2974/blob/output/github-contribution-grid-snake.svg)
+
