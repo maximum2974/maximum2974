@@ -30,7 +30,7 @@ I'm maximum, a developer from China 🇨🇳 who enjoys making things 🛠️ an
 
 > 📦 1.4 MB Used in GitHub's Storage 
  > 
-> 🏆 287 Contributions in the Year 2026
+> 🏆 290 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -41,21 +41,21 @@ I'm maximum, a developer from China 🇨🇳 who enjoys making things 🛠️ an
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                923 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.25 % 
-🌆 Daytime                1582 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.56 % 
-🌃 Evening                3678 commits        ██████████░░░░░░░░░░░░░░░   40.83 % 
-🌙 Night                  2826 commits        ████████░░░░░░░░░░░░░░░░░   31.37 % 
+🌞 Morning                923 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.20 % 
+🌆 Daytime                1589 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.57 % 
+🌃 Evening                3708 commits        ██████████░░░░░░░░░░░░░░░   40.99 % 
+🌙 Night                  2826 commits        ████████░░░░░░░░░░░░░░░░░   31.24 % 
 ```
 📅 **I'm Most Productive on Saturday** 
 
 ```text
-Monday                   859 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.53 % 
-Tuesday                  816 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.06 % 
-Wednesday                1072 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.90 % 
-Thursday                 1370 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.21 % 
-Friday                   1026 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.39 % 
-Saturday                 2436 commits        ███████░░░░░░░░░░░░░░░░░░   27.04 % 
-Sunday                   1430 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.87 % 
+Monday                   859 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.50 % 
+Tuesday                  816 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.02 % 
+Wednesday                1072 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.85 % 
+Thursday                 1370 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.14 % 
+Friday                   1027 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.35 % 
+Saturday                 2472 commits        ███████░░░░░░░░░░░░░░░░░░   27.33 % 
+Sunday                   1430 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.81 % 
 ```
 
 
@@ -65,66 +65,67 @@ Sunday                   1430 commits        ████░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    22 hrs 54 mins      █████████████████████░░░░   82.40 % 
-Python                   2 hrs 47 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.05 % 
-Markdown                 1 hr 7 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.08 % 
-HTML                     15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.91 % 
-JavaScript               13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.82 % 
+Other                    25 hrs 6 mins       ████████████████████░░░░░   81.18 % 
+Python                   3 hrs 20 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.82 % 
+Markdown                 1 hr 26 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.66 % 
+HTML                     15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.82 % 
+JavaScript               13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.74 % 
 
 🔥 Editors: 
-Chrome                   16 hrs 19 mins      ███████████████░░░░░░░░░░   58.73 % 
-Edge                     5 hrs 26 mins       █████░░░░░░░░░░░░░░░░░░░░   19.58 % 
-Codex Vscode             3 hrs 43 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.39 % 
-PyCharm                  2 hrs 18 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.30 % 
+Chrome                   17 hrs 3 mins       ██████████████░░░░░░░░░░░   55.15 % 
+Edge                     5 hrs 38 mins       █████░░░░░░░░░░░░░░░░░░░░   18.27 % 
+Codex Vscode             5 hrs 19 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.22 % 
+PyCharm                  2 hrs 52 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.30 % 
+IntelliJ IDEA            1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
 
 🐱‍💻 Projects: 
-mini-swe-agent           8 hrs 59 mins       ████████░░░░░░░░░░░░░░░░░   32.32 % 
-pi                       7 hrs 12 mins       ██████░░░░░░░░░░░░░░░░░░░   25.95 % 
-karpathy-llm-wiki        3 hrs 45 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.53 % 
-magpie                   2 hrs 24 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.67 % 
-Playground               1 hr 40 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.01 % 
+mini-swe-agent           9 hrs 11 mins       ███████░░░░░░░░░░░░░░░░░░   29.71 % 
+pi                       5 hrs 33 mins       ████░░░░░░░░░░░░░░░░░░░░░   18.00 % 
+karpathy-llm-wiki        3 hrs 24 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.01 % 
+Playground               3 hrs 14 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.49 % 
+lumo-mobile              2 hrs 54 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.42 % 
 
 💻 Operating System: 
-Mac                      27 hrs 48 mins      █████████████████████████   100.00 % 
+Mac                      30 hrs 55 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 5 hrs 26 mins (19.57%)
+⏱ AI Coding Time: 7 hrs 34 mins (24.49%)
 
-✍️ 1,191 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 1,473 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 3,055,455 Input Tokens, 232,804 Output Tokens
+🔤 4,027,482 Input Tokens, 289,528 Output Tokens
 
-💵 $141.49 Estimated AI Cost This Week
+💵 $174.36 Estimated AI Cost This Week
 
-🧠 48 AI Sessions, 158 AI Prompts
+🧠 67 AI Sessions, 244 AI Prompts
 
-GPT                      1,186 lines         █████████████████████████   99.58 % 
-Codex-Vscode             5 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.42 % 
+GPT                      1,468 lines         █████████████████████████   99.66 % 
+Codex-Vscode             5 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📚 Verbose Prompter — average 7,685 characters per prompt
-🔁 Iterative Prompter — average 3 prompts per session
+📚 Verbose Prompter — average 9,297 characters per prompt
+🔁 Iterative Prompter — average 4 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Java** 
 
 ```text
-Java                     33 repos            ███████████░░░░░░░░░░░░░░   43.42 % 
-JavaScript               8 repos             ███░░░░░░░░░░░░░░░░░░░░░░   10.53 % 
-TypeScript               7 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.21 % 
-Python                   6 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.89 % 
-C#                       1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.32 % 
+Java                     34 repos            ███████████░░░░░░░░░░░░░░   43.59 % 
+JavaScript               8 repos             ███░░░░░░░░░░░░░░░░░░░░░░   10.26 % 
+Python                   7 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.97 % 
+TypeScript               7 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.97 % 
+C#                       1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.28 % 
 ```
 
 
 
 
- Last Updated on 01/10/2026 22:55:38 UTC
+ Last Updated on 02/10/2026 22:32:23 UTC
 <!--END_SECTION:waka--> 
  
 
