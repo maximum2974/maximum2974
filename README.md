@@ -20,7 +20,7 @@ I'm maximum, a developer from China 🇨🇳 who enjoys making things 🛠️ an
 ## **💣A Glimpse into My Personal Week:**
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C463%20hrs%2025%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C463%20hrs%2038%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-39%20hrs%2059%20mins-blue?style=flat)
 
@@ -30,7 +30,7 @@ I'm maximum, a developer from China 🇨🇳 who enjoys making things 🛠️ an
 
 > 📦 1.4 MB Used in GitHub's Storage 
  > 
-> 🏆 297 Contributions in the Year 2026
+> 🏆 298 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -41,21 +41,21 @@ I'm maximum, a developer from China 🇨🇳 who enjoys making things 🛠️ an
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                923 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.17 % 
-🌆 Daytime                1601 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.64 % 
-🌃 Evening                3726 commits        ██████████░░░░░░░░░░░░░░░   41.05 % 
-🌙 Night                  2826 commits        ████████░░░░░░░░░░░░░░░░░   31.14 % 
+🌞 Morning                923 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.15 % 
+🌆 Daytime                1608 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.68 % 
+🌃 Evening                3738 commits        ██████████░░░░░░░░░░░░░░░   41.10 % 
+🌙 Night                  2826 commits        ████████░░░░░░░░░░░░░░░░░   31.07 % 
 ```
 📅 **I'm Most Productive on Saturday** 
 
 ```text
-Monday                   860 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.48 % 
-Tuesday                  817 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.00 % 
-Wednesday                1073 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.82 % 
-Thursday                 1371 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.11 % 
-Friday                   1027 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.32 % 
-Saturday                 2497 commits        ███████░░░░░░░░░░░░░░░░░░   27.51 % 
-Sunday                   1431 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.77 % 
+Monday                   860 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.46 % 
+Tuesday                  817 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.98 % 
+Wednesday                1073 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.80 % 
+Thursday                 1371 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.07 % 
+Friday                   1028 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.30 % 
+Saturday                 2515 commits        ███████░░░░░░░░░░░░░░░░░░   27.65 % 
+Sunday                   1431 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.73 % 
 ```
 
 
@@ -65,51 +65,51 @@ Sunday                   1431 commits        ████░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    25 hrs 30 mins      █████████████████████░░░░   82.65 % 
-Python                   3 hrs 37 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.72 % 
-YAML                     55 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.99 % 
-Markdown                 20 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.11 % 
-TSConfig                 19 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.08 % 
+Other                    25 hrs 31 mins      █████████████████████░░░░   85.24 % 
+Python                   3 hrs 2 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.18 % 
+YAML                     51 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.89 % 
+TSConfig                 19 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.11 % 
+GitIgnore file           7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.44 % 
 
 🔥 Editors: 
-Chrome                   14 hrs 25 mins      ████████████░░░░░░░░░░░░░   46.71 % 
-Edge                     10 hrs 17 mins      ████████░░░░░░░░░░░░░░░░░   33.33 % 
-Codex Vscode             3 hrs 19 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.77 % 
-PyCharm                  2 hrs 47 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.02 % 
-IntelliJ IDEA            3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 % 
+Chrome                   14 hrs 42 mins      ████████████░░░░░░░░░░░░░   49.16 % 
+Edge                     10 hrs 18 mins      █████████░░░░░░░░░░░░░░░░   34.41 % 
+PyCharm                  2 hrs 41 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.00 % 
+Codex Vscode             2 hrs 11 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.33 % 
+IntelliJ IDEA            1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 % 
 
 🐱‍💻 Projects: 
-mini-swe-agent           22 hrs 10 mins      ██████████████████░░░░░░░   71.82 % 
-lumo-mobile              2 hrs 54 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.44 % 
-ai-daily                 1 hr 54 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.20 % 
-Playground               1 hr 25 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.64 % 
-SurviveXMUM-server       1 hr 7 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.65 % 
+mini-swe-agent           21 hrs 57 mins      ██████████████████░░░░░░░   73.38 % 
+ai-daily                 5 hrs 28 mins       █████░░░░░░░░░░░░░░░░░░░░   18.31 % 
+SurviveXMUM-server       1 hr 7 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.76 % 
+Playground               48 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.70 % 
+pi                       20 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.17 % 
 
 💻 Operating System: 
-Mac                      30 hrs 40 mins      █████████████████████████   99.39 % 
-Windows                  11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.61 % 
+Mac                      29 hrs 44 mins      █████████████████████████   99.37 % 
+Windows                  11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.63 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 4 hrs 15 mins (13.8%)
+⏱ AI Coding Time: 3 hrs 4 mins (10.28%)
 
-✍️ 282 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 0 lines written by AI, 0 lines written by hand (0% AI-written)
 
-🔤 3,084,607 Input Tokens, 223,265 Output Tokens
+🔤 2,490,795 Input Tokens, 191,988 Output Tokens
 
-💵 $78.92 Estimated AI Cost This Week
+💵 $65.58 Estimated AI Cost This Week
 
-🧠 39 AI Sessions, 94 AI Prompts
+🧠 27 AI Sessions, 63 AI Prompts
 
-GPT                      282 lines           █████████████████████████   100.00 % 
+GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 100.0% of written lines came from AI
-📚 Verbose Prompter — average 7,491 characters per prompt
+🧑‍💻 Mostly Hands-On — 0% of written lines came from AI
+📚 Verbose Prompter — average 8,479 characters per prompt
 🔁 Iterative Prompter — average 2 prompts per session
-🚀 High AI Trust — 0.0% of changed lines were hand-edited
+🚀 High AI Trust — 0% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Java** 
@@ -125,7 +125,7 @@ C#                       1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 08/10/2026 23:35:44 UTC
+ Last Updated on 09/10/2026 22:52:57 UTC
 <!--END_SECTION:waka--> 
  
 
