@@ -30,7 +30,7 @@ I'm maximum, a developer from China 🇨🇳 who enjoys making things 🛠️ an
 
 > 📦 1.4 MB Used in GitHub's Storage 
  > 
-> 🏆 299 Contributions in the Year 2026
+> 🏆 300 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -42,7 +42,7 @@ I'm maximum, a developer from China 🇨🇳 who enjoys making things 🛠️ an
 
 ```text
 🌞 Morning                923 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.15 % 
-🌆 Daytime                1609 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.69 % 
+🌆 Daytime                1610 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.70 % 
 🌃 Evening                3738 commits        ██████████░░░░░░░░░░░░░░░   41.09 % 
 🌙 Night                  2826 commits        ████████░░░░░░░░░░░░░░░░░   31.07 % 
 ```
@@ -55,7 +55,7 @@ Wednesday                1073 commits        ███░░░░░░░░�
 Thursday                 1371 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.07 % 
 Friday                   1028 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.30 % 
 Saturday                 2516 commits        ███████░░░░░░░░░░░░░░░░░░   27.66 % 
-Sunday                   1431 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.73 % 
+Sunday                   1432 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.74 % 
 ```
 
 
@@ -65,40 +65,40 @@ Sunday                   1431 commits        ████░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    22 hrs 53 mins      ██████████████████████░░░   87.46 % 
-Python                   2 hrs 5 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.00 % 
-YAML                     51 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.27 % 
-TSConfig                 19 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.27 % 
+Other                    22 hrs 9 mins       ██████████████████████░░░   88.58 % 
+Python                   1 hr 43 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.87 % 
+YAML                     48 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.22 % 
+TSConfig                 19 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.33 % 
 JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔥 Editors: 
-Chrome                   14 hrs 30 mins      ██████████████░░░░░░░░░░░   55.39 % 
-Edge                     8 hrs 13 mins       ████████░░░░░░░░░░░░░░░░░   31.43 % 
-PyCharm                  1 hr 59 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.61 % 
-Codex Vscode             1 hr 27 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.56 % 
+Chrome                   13 hrs 19 mins      █████████████░░░░░░░░░░░░   53.26 % 
+Edge                     8 hrs 47 mins       █████████░░░░░░░░░░░░░░░░   35.17 % 
+PyCharm                  1 hr 40 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.71 % 
+Codex Vscode             1 hr 12 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.85 % 
 
 🐱‍💻 Projects: 
-mini-swe-agent           19 hrs 37 mins      ███████████████████░░░░░░   74.99 % 
-ai-daily                 5 hrs 44 mins       █████░░░░░░░░░░░░░░░░░░░░   21.96 % 
-Playground               25 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.60 % 
-pi                       20 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.33 % 
+mini-swe-agent           16 hrs 43 mins      █████████████████░░░░░░░░   66.86 % 
+ai-daily                 7 hrs 35 mins       ████████░░░░░░░░░░░░░░░░░   30.38 % 
+pi                       20 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.40 % 
+Playground               18 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.25 % 
 tushawangxinran          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
 
 💻 Operating System: 
-Mac                      25 hrs 59 mins      █████████████████████████   99.28 % 
-Windows                  11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.72 % 
+Mac                      24 hrs 49 mins      █████████████████████████   99.25 % 
+Windows                  11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.75 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 2 hrs 9 mins (8.27%)
+⏱ AI Coding Time: 1 hr 52 mins (7.5%)
 
 ✍️ 0 lines written by AI, 0 lines written by hand (0% AI-written)
 
 🔤 1,937,966 Input Tokens, 156,742 Output Tokens
 
-💵 $50.96 Estimated AI Cost This Week
+💵 $46.22 Estimated AI Cost This Week
 
 🧠 17 AI Sessions, 48 AI Prompts
 
@@ -124,7 +124,7 @@ C#                       1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 10/10/2026 21:59:44 UTC
+ Last Updated on 11/10/2026 22:20:50 UTC
 <!--END_SECTION:waka--> 
  
 
