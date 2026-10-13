@@ -20,17 +20,17 @@ I'm maximum, a developer from China 🇨🇳 who enjoys making things 🛠️ an
 ## **💣A Glimpse into My Personal Week:**
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C463%20hrs%2038%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C463%20hrs%2040%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-39%20hrs%2059%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-6-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-7-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 1.4 MB Used in GitHub's Storage 
  > 
-> 🏆 300 Contributions in the Year 2026
+> 🏆 301 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -42,19 +42,19 @@ I'm maximum, a developer from China 🇨🇳 who enjoys making things 🛠️ an
 
 ```text
 🌞 Morning                923 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.15 % 
-🌆 Daytime                1610 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.70 % 
+🌆 Daytime                1611 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.71 % 
 🌃 Evening                3738 commits        ██████████░░░░░░░░░░░░░░░   41.09 % 
-🌙 Night                  2826 commits        ████████░░░░░░░░░░░░░░░░░   31.07 % 
+🌙 Night                  2826 commits        ████████░░░░░░░░░░░░░░░░░   31.06 % 
 ```
 📅 **I'm Most Productive on Saturday** 
 
 ```text
-Monday                   860 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.45 % 
+Monday                   861 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.46 % 
 Tuesday                  817 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.98 % 
-Wednesday                1073 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.80 % 
+Wednesday                1073 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.79 % 
 Thursday                 1371 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.07 % 
 Friday                   1028 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.30 % 
-Saturday                 2516 commits        ███████░░░░░░░░░░░░░░░░░░   27.66 % 
+Saturday                 2516 commits        ███████░░░░░░░░░░░░░░░░░░   27.65 % 
 Sunday                   1432 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.74 % 
 ```
 
@@ -65,50 +65,50 @@ Sunday                   1432 commits        ████░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    22 hrs 9 mins       ██████████████████████░░░   88.58 % 
-Python                   1 hr 43 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.87 % 
-YAML                     48 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.22 % 
-TSConfig                 19 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.33 % 
+Other                    17 hrs 28 mins      ████████████████████░░░░░   80.41 % 
+Python                   3 hrs 7 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.35 % 
+YAML                     48 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.70 % 
+TSConfig                 19 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.53 % 
 JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔥 Editors: 
-Chrome                   13 hrs 19 mins      █████████████░░░░░░░░░░░░   53.26 % 
-Edge                     8 hrs 47 mins       █████████░░░░░░░░░░░░░░░░   35.17 % 
-PyCharm                  1 hr 40 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.71 % 
-Codex Vscode             1 hr 12 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.85 % 
+Chrome                   10 hrs 37 mins      ████████████░░░░░░░░░░░░░   48.88 % 
+Edge                     6 hrs 31 mins       ████████░░░░░░░░░░░░░░░░░   30.00 % 
+Codex Vscode             2 hrs 38 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.15 % 
+PyCharm                  1 hr 56 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.97 % 
 
 🐱‍💻 Projects: 
-mini-swe-agent           16 hrs 43 mins      █████████████████░░░░░░░░   66.86 % 
-ai-daily                 7 hrs 35 mins       ████████░░░░░░░░░░░░░░░░░   30.38 % 
-pi                       20 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.40 % 
-Playground               18 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.25 % 
-tushawangxinran          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
+mini-swe-agent           10 hrs 46 mins      ████████████░░░░░░░░░░░░░   49.57 % 
+ai-daily                 8 hrs 44 mins       ██████████░░░░░░░░░░░░░░░   40.26 % 
+Speaking                 1 hr 13 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.65 % 
+Playground               36 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.78 % 
+pi                       20 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.61 % 
 
 💻 Operating System: 
-Mac                      24 hrs 49 mins      █████████████████████████   99.25 % 
-Windows                  11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.75 % 
+Mac                      21 hrs 32 mins      █████████████████████████   99.14 % 
+Windows                  11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.86 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 52 mins (7.5%)
+⏱ AI Coding Time: 3 hrs 34 mins (16.46%)
 
-✍️ 0 lines written by AI, 0 lines written by hand (0% AI-written)
+✍️ 207 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 1,937,966 Input Tokens, 156,742 Output Tokens
+🔤 2,276,584 Input Tokens, 215,662 Output Tokens
 
-💵 $46.22 Estimated AI Cost This Week
+💵 $47.78 Estimated AI Cost This Week
 
-🧠 17 AI Sessions, 48 AI Prompts
+🧠 23 AI Sessions, 72 AI Prompts
 
-GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+GPT                      207 lines           █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 0% of written lines came from AI
-📚 Verbose Prompter — average 7,881 characters per prompt
+🤖 AI-Driven — 100.0% of written lines came from AI
+📚 Verbose Prompter — average 9,650 characters per prompt
 🔁 Iterative Prompter — average 3 prompts per session
-🚀 High AI Trust — 0% of changed lines were hand-edited
+🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Java** 
@@ -124,7 +124,7 @@ C#                       1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 11/10/2026 22:20:50 UTC
+ Last Updated on 13/10/2026 00:58:29 UTC
 <!--END_SECTION:waka--> 
  
 
