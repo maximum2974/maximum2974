@@ -20,6 +20,10 @@ I'm maximum, a developer from China 🇨🇳 who enjoys making things 🛠️ an
 ## **💣A Glimpse into My Personal Week:**
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C465%20hrs%2053%20mins-blue?style=flat)
+
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-43%20hrs%2058%20mins-blue?style=flat)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 **🐱 My GitHub Data** 
@@ -61,29 +65,29 @@ Sunday                   1439 commits        ████░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    10 hrs 37 mins      ███████████████████████░░   92.26 % 
-TypeScript               53 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.74 % 
+Other                    12 hrs 4 mins       ███████████████████████░░   92.25 % 
+TypeScript               1 hr                ██░░░░░░░░░░░░░░░░░░░░░░░   07.75 % 
 
 🔥 Editors: 
-Edge                     6 hrs 8 mins        █████████████░░░░░░░░░░░░   53.32 % 
-Chrome                   4 hrs 17 mins       █████████░░░░░░░░░░░░░░░░   37.24 % 
-WebStorm                 1 hr 5 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   09.44 % 
+Edge                     6 hrs 54 mins       █████████████░░░░░░░░░░░░   52.86 % 
+Chrome                   5 hrs 4 mins        ██████████░░░░░░░░░░░░░░░   38.82 % 
+WebStorm                 1 hr 5 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.32 % 
 
 🐱‍💻 Projects: 
-lumo-mobile              5 hrs 47 mins       █████████████░░░░░░░░░░░░   50.26 % 
-RUN                      2 hrs 10 mins       █████░░░░░░░░░░░░░░░░░░░░   18.93 % 
-lumo-server              2 hrs 1 min         ████░░░░░░░░░░░░░░░░░░░░░   17.51 % 
-AI-Coding-Guide-Zh       26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.86 % 
-Playground               25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.68 % 
+lumo-mobile              7 hrs 48 mins       ███████████████░░░░░░░░░░   59.73 % 
+lumo-server              2 hrs 1 min         ████░░░░░░░░░░░░░░░░░░░░░   15.42 % 
+RUN                      1 hr 38 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.54 % 
+AI-Coding-Guide-Zh       26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.40 % 
+Playground               25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.24 % 
 
 💻 Operating System: 
-Mac                      11 hrs 31 mins      █████████████████████████   100.00 % 
+Mac                      13 hrs 4 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 5 mins (9.44%)
+⏱ AI Coding Time: 1 hr 5 mins (8.32%)
 
 ✍️ 0 lines written by AI, 0 lines written by hand (0% AI-written)
 
@@ -115,7 +119,7 @@ Go                       3 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 14/11/2026 14:14:14 UTC
+ Last Updated on 14/11/2026 22:45:27 UTC
 <!--END_SECTION:waka--> 
  
 
