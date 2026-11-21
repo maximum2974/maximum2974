@@ -20,7 +20,7 @@ I'm maximum, a developer from China 🇨🇳 who enjoys making things 🛠️ an
 ## **💣A Glimpse into My Personal Week:**
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C466%20hrs%2046%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C466%20hrs%2049%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-43%20hrs%2058%20mins-blue?style=flat)
 
@@ -30,7 +30,7 @@ I'm maximum, a developer from China 🇨🇳 who enjoys making things 🛠️ an
 
 > 📦 1.4 MB Used in GitHub's Storage 
  > 
-> 🏆 341 Contributions in the Year 2026
+> 🏆 342 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -41,20 +41,20 @@ I'm maximum, a developer from China 🇨🇳 who enjoys making things 🛠️ an
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                923 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.02 % 
-🌆 Daytime                1685 commits        █████░░░░░░░░░░░░░░░░░░░░   18.28 % 
-🌃 Evening                3782 commits        ██████████░░░░░░░░░░░░░░░   41.04 % 
+🌞 Morning                923 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.01 % 
+🌆 Daytime                1686 commits        █████░░░░░░░░░░░░░░░░░░░░   18.29 % 
+🌃 Evening                3782 commits        ██████████░░░░░░░░░░░░░░░   41.03 % 
 🌙 Night                  2826 commits        ████████░░░░░░░░░░░░░░░░░   30.66 % 
 ```
 📅 **I'm Most Productive on Saturday** 
 
 ```text
-Monday                   876 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.51 % 
+Monday                   876 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.50 % 
 Tuesday                  827 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.97 % 
 Wednesday                1084 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.76 % 
 Thursday                 1380 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.97 % 
 Friday                   1037 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.25 % 
-Saturday                 2572 commits        ███████░░░░░░░░░░░░░░░░░░   27.91 % 
+Saturday                 2573 commits        ███████░░░░░░░░░░░░░░░░░░   27.92 % 
 Sunday                   1440 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.62 % 
 ```
 
@@ -65,21 +65,20 @@ Sunday                   1440 commits        ████░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    11 hrs 18 mins      ███████████████████████░░   92.43 % 
-TypeScript               55 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.57 % 
+Other                    9 hrs 21 mins       ██████████████████████░░░   88.80 % 
+TypeScript               1 hr 10 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.20 % 
 
 🔥 Editors: 
-Chrome                   8 hrs 9 mins        █████████████████░░░░░░░░   66.61 % 
-Edge                     4 hrs 5 mins        ████████░░░░░░░░░░░░░░░░░   33.39 % 
+Chrome                   7 hrs 38 mins       ██████████████████░░░░░░░   72.40 % 
+Edge                     2 hrs 54 mins       ███████░░░░░░░░░░░░░░░░░░   27.60 % 
 
 🐱‍💻 Projects: 
-lumo-mobile              7 hrs 18 mins       ███████████████░░░░░░░░░░   59.66 % 
-poki                     4 hrs 43 mins       ██████████░░░░░░░░░░░░░░░   38.63 % 
-lumo-server              7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.09 % 
-maximum2974              4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.63 % 
+lumo-mobile              5 hrs 31 mins       █████████████░░░░░░░░░░░░   52.41 % 
+poki                     4 hrs 43 mins       ███████████░░░░░░░░░░░░░░   44.84 % 
+lumo-server              17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.76 % 
 
 💻 Operating System: 
-Mac                      12 hrs 14 mins      █████████████████████████   100.00 % 
+Mac                      10 hrs 32 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -101,7 +100,7 @@ Go                       3 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 21/11/2026 00:11:40 UTC
+ Last Updated on 21/11/2026 23:36:40 UTC
 <!--END_SECTION:waka--> 
  
 
