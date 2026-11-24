@@ -30,7 +30,7 @@ I'm maximum, a developer from China 🇨🇳 who enjoys making things 🛠️ an
 
 > 📦 1.4 MB Used in GitHub's Storage 
  > 
-> 🏆 343 Contributions in the Year 2026
+> 🏆 344 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -42,14 +42,14 @@ I'm maximum, a developer from China 🇨🇳 who enjoys making things 🛠️ an
 
 ```text
 🌞 Morning                923 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.01 % 
-🌆 Daytime                1687 commits        █████░░░░░░░░░░░░░░░░░░░░   18.30 % 
-🌃 Evening                3782 commits        ██████████░░░░░░░░░░░░░░░   41.03 % 
-🌙 Night                  2826 commits        ████████░░░░░░░░░░░░░░░░░   30.66 % 
+🌆 Daytime                1688 commits        █████░░░░░░░░░░░░░░░░░░░░   18.31 % 
+🌃 Evening                3782 commits        ██████████░░░░░░░░░░░░░░░   41.02 % 
+🌙 Night                  2826 commits        ████████░░░░░░░░░░░░░░░░░   30.65 % 
 ```
 📅 **I'm Most Productive on Saturday** 
 
 ```text
-Monday                   876 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.50 % 
+Monday                   877 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.51 % 
 Tuesday                  827 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.97 % 
 Wednesday                1084 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.76 % 
 Thursday                 1380 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.97 % 
@@ -65,26 +65,44 @@ Sunday                   1441 commits        ████░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    6 hrs 50 mins       ███████████████████████░░   93.27 % 
-TypeScript               29 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.73 % 
+Other                    6 hrs 38 mins       ███████████████████████░░   93.26 % 
+TypeScript               28 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.74 % 
 
 🔥 Editors: 
-Chrome                   5 hrs 13 mins       ██████████████████░░░░░░░   71.13 % 
-Edge                     2 hrs 7 mins        ███████░░░░░░░░░░░░░░░░░░   28.87 % 
+Chrome                   4 hrs 58 mins       █████████████████░░░░░░░░   69.84 % 
+Edge                     1 hr 55 mins        ███████░░░░░░░░░░░░░░░░░░   27.01 % 
+WebStorm                 13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.15 % 
 
 🐱‍💻 Projects: 
-poki                     3 hrs 19 mins       ███████████░░░░░░░░░░░░░░   45.19 % 
-lumo-mobile              3 hrs 5 mins        ███████████░░░░░░░░░░░░░░   42.23 % 
-lumo-server              55 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.58 % 
+lumo-mobile              3 hrs 5 mins        ███████████░░░░░░░░░░░░░░   43.46 % 
+poki                     2 hrs 8 mins        ████████░░░░░░░░░░░░░░░░░   30.14 % 
+lumo-server              1 hr 39 mins        ██████░░░░░░░░░░░░░░░░░░░   23.25 % 
+Lumo                     13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.15 % 
 
 💻 Operating System: 
-Mac                      7 hrs 20 mins       █████████████████████████   100.00 % 
+Mac                      7 hrs 6 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-No AI Coding Activity Tracked This Week
+⏱ AI Coding Time: 13 mins (3.15%)
+
+✍️ 0 lines written by AI, 0 lines written by hand (0% AI-written)
+
+🔤 346,007 Input Tokens, 9,902 Output Tokens
+
+💵 $10.99 Estimated AI Cost This Week
+
+🧠 3 AI Sessions, 10 AI Prompts
+
+GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+
+🔎 AI Coding Insights:
+🧑‍💻 Mostly Hands-On — 0% of written lines came from AI
+📝 Concise Prompter — average 25 characters per prompt
+🔁 Iterative Prompter — average 3 prompts per session
+🚀 High AI Trust — 0% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Java** 
@@ -100,7 +118,7 @@ Go                       3 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 22/11/2026 23:48:28 UTC
+ Last Updated on 24/11/2026 04:07:26 UTC
 <!--END_SECTION:waka--> 
  
 
