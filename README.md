@@ -22,7 +22,7 @@ I'm maximum, a developer from China 🇨🇳 who enjoys making things 🛠️ an
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-1%2C467%20hrs%2011%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-43%20hrs%2058%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-44%20hrs%2012%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-9-blue?style=flat)
 
@@ -30,7 +30,7 @@ I'm maximum, a developer from China 🇨🇳 who enjoys making things 🛠️ an
 
 > 📦 1.4 MB Used in GitHub's Storage 
  > 
-> 🏆 344 Contributions in the Year 2026
+> 🏆 345 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -43,14 +43,14 @@ I'm maximum, a developer from China 🇨🇳 who enjoys making things 🛠️ an
 ```text
 🌞 Morning                923 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.01 % 
 🌆 Daytime                1688 commits        █████░░░░░░░░░░░░░░░░░░░░   18.31 % 
-🌃 Evening                3782 commits        ██████████░░░░░░░░░░░░░░░   41.02 % 
+🌃 Evening                3783 commits        ██████████░░░░░░░░░░░░░░░   41.03 % 
 🌙 Night                  2826 commits        ████████░░░░░░░░░░░░░░░░░   30.65 % 
 ```
 📅 **I'm Most Productive on Saturday** 
 
 ```text
 Monday                   877 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.51 % 
-Tuesday                  827 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.97 % 
+Tuesday                  828 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.98 % 
 Wednesday                1084 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.76 % 
 Thursday                 1380 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.97 % 
 Friday                   1037 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.25 % 
@@ -65,43 +65,45 @@ Sunday                   1441 commits        ████░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    6 hrs 38 mins       ███████████████████████░░   93.26 % 
-TypeScript               28 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.74 % 
+Other                    8 hrs 1 min         ████████████████████████░   94.43 % 
+TypeScript               28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.49 % 
+CSS                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
 
 🔥 Editors: 
-Chrome                   4 hrs 58 mins       █████████████████░░░░░░░░   69.84 % 
-Edge                     1 hr 55 mins        ███████░░░░░░░░░░░░░░░░░░   27.01 % 
-WebStorm                 13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.15 % 
+Chrome                   6 hrs 6 mins        ██████████████████░░░░░░░   71.86 % 
+Edge                     1 hr 13 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.40 % 
+WebStorm                 1 hr 10 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.74 % 
 
 🐱‍💻 Projects: 
-lumo-mobile              3 hrs 5 mins        ███████████░░░░░░░░░░░░░░   43.46 % 
-poki                     2 hrs 8 mins        ████████░░░░░░░░░░░░░░░░░   30.14 % 
-lumo-server              1 hr 39 mins        ██████░░░░░░░░░░░░░░░░░░░   23.25 % 
-Lumo                     13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.15 % 
+lumo-server              3 hrs 2 mins        █████████░░░░░░░░░░░░░░░░   35.75 % 
+lumo-mobile              2 hrs 9 mins        ██████░░░░░░░░░░░░░░░░░░░   25.32 % 
+poki                     2 hrs 8 mins        ██████░░░░░░░░░░░░░░░░░░░   25.18 % 
+Lumo                     1 hr 9 mins         ███░░░░░░░░░░░░░░░░░░░░░░   13.58 % 
+Playground               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 % 
 
 💻 Operating System: 
-Mac                      7 hrs 6 mins        █████████████████████████   100.00 % 
+Mac                      8 hrs 29 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 13 mins (3.15%)
+⏱ AI Coding Time: 1 hr 10 mins (13.74%)
 
 ✍️ 0 lines written by AI, 0 lines written by hand (0% AI-written)
 
-🔤 346,007 Input Tokens, 9,902 Output Tokens
+🔤 381,612 Input Tokens, 21,096 Output Tokens
 
-💵 $10.99 Estimated AI Cost This Week
+💵 $15.27 Estimated AI Cost This Week
 
-🧠 3 AI Sessions, 10 AI Prompts
+🧠 5 AI Sessions, 28 AI Prompts
 
 GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🧑‍💻 Mostly Hands-On — 0% of written lines came from AI
-📝 Concise Prompter — average 25 characters per prompt
-🔁 Iterative Prompter — average 3 prompts per session
+📝 Concise Prompter — average 38 characters per prompt
+🔁 Iterative Prompter — average 6 prompts per session
 🚀 High AI Trust — 0% of changed lines were hand-edited
 ```
 
@@ -118,7 +120,7 @@ Go                       3 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 24/11/2026 04:07:26 UTC
+ Last Updated on 25/11/2026 02:48:00 UTC
 <!--END_SECTION:waka--> 
  
 
