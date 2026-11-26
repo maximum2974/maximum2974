@@ -20,9 +20,9 @@ I'm maximum, a developer from China 🇨🇳 who enjoys making things 🛠️ an
 ## **💣A Glimpse into My Personal Week:**
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C467%20hrs%2011%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C467%20hrs%2012%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-44%20hrs%2012%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-45%20hrs%208%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-9-blue?style=flat)
 
@@ -30,7 +30,7 @@ I'm maximum, a developer from China 🇨🇳 who enjoys making things 🛠️ an
 
 > 📦 1.4 MB Used in GitHub's Storage 
  > 
-> 🏆 345 Contributions in the Year 2026
+> 🏆 346 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -43,7 +43,7 @@ I'm maximum, a developer from China 🇨🇳 who enjoys making things 🛠️ an
 ```text
 🌞 Morning                923 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.01 % 
 🌆 Daytime                1688 commits        █████░░░░░░░░░░░░░░░░░░░░   18.31 % 
-🌃 Evening                3783 commits        ██████████░░░░░░░░░░░░░░░   41.03 % 
+🌃 Evening                3784 commits        ██████████░░░░░░░░░░░░░░░   41.04 % 
 🌙 Night                  2826 commits        ████████░░░░░░░░░░░░░░░░░   30.65 % 
 ```
 📅 **I'm Most Productive on Saturday** 
@@ -51,10 +51,10 @@ I'm maximum, a developer from China 🇨🇳 who enjoys making things 🛠️ an
 ```text
 Monday                   877 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.51 % 
 Tuesday                  828 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.98 % 
-Wednesday                1084 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.76 % 
+Wednesday                1085 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.77 % 
 Thursday                 1380 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.97 % 
 Friday                   1037 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.25 % 
-Saturday                 2573 commits        ███████░░░░░░░░░░░░░░░░░░   27.91 % 
+Saturday                 2573 commits        ███████░░░░░░░░░░░░░░░░░░   27.90 % 
 Sunday                   1441 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.63 % 
 ```
 
@@ -65,30 +65,30 @@ Sunday                   1441 commits        ████░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    8 hrs 1 min         ████████████████████████░   94.43 % 
-TypeScript               28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.49 % 
-CSS                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
+Other                    7 hrs 21 mins       ████████████████████████░   94.51 % 
+TypeScript               25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.41 % 
+CSS                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
 
 🔥 Editors: 
-Chrome                   6 hrs 6 mins        ██████████████████░░░░░░░   71.86 % 
-Edge                     1 hr 13 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.40 % 
-WebStorm                 1 hr 10 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.74 % 
+Chrome                   5 hrs 50 mins       ███████████████████░░░░░░   75.14 % 
+WebStorm                 1 hr 10 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.01 % 
+Edge                     45 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.85 % 
 
 🐱‍💻 Projects: 
-lumo-server              3 hrs 2 mins        █████████░░░░░░░░░░░░░░░░   35.75 % 
-lumo-mobile              2 hrs 9 mins        ██████░░░░░░░░░░░░░░░░░░░   25.32 % 
-poki                     2 hrs 8 mins        ██████░░░░░░░░░░░░░░░░░░░   25.18 % 
-Lumo                     1 hr 9 mins         ███░░░░░░░░░░░░░░░░░░░░░░   13.58 % 
+lumo-server              4 hrs 10 mins       █████████████░░░░░░░░░░░░   53.59 % 
+lumo-mobile              1 hr 14 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.01 % 
+poki                     1 hr 11 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.39 % 
+Lumo                     1 hr 9 mins         ████░░░░░░░░░░░░░░░░░░░░░   14.83 % 
 Playground               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 % 
 
 💻 Operating System: 
-Mac                      8 hrs 29 mins       █████████████████████████   100.00 % 
+Mac                      7 hrs 46 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 10 mins (13.74%)
+⏱ AI Coding Time: 1 hr 10 mins (15.01%)
 
 ✍️ 0 lines written by AI, 0 lines written by hand (0% AI-written)
 
@@ -120,7 +120,7 @@ Go                       3 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 25/11/2026 02:48:00 UTC
+ Last Updated on 26/11/2026 01:59:36 UTC
 <!--END_SECTION:waka--> 
  
 
